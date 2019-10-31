@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Company": "Google",
+      "CEO": "Sundar Pichai"
+    },
+    {
+      "id": 2,
+      "Company": "Rakuten",
+      "CEO": "Mikitani Hiroshi"
+    },
+    {
+      "id": 3,
+      "Company": "Alibaba",
+      "CEO": "Jack Ma"
+    }
+  ]
+}
